@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **subhajit.chowhan.contact@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1gVDrMR8IqjlFktgu2GA7usKrbXs5vpt7/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1gVDrMR8IqjlFktgu2GA7usKrbXs5vpt7/view?usp=sharing)](https://drive.google.com/file/d/1gVDrMR8IqjlFktgu2GA7usKrbXs5vpt7/view?usp=sharing))
 
 - ⚡ Fun fact **Besides an aspiring developer. 🍳 I Love to cook and explore various dishes around the world. 🎧 I also love to Listen Music and songs. 🎌 Currently Learning Japanese and Interested to move in japan. and explore the work culture. JLPT N4 certified Japanese speaker.**
 
