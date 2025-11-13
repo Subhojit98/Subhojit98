@@ -1,6 +1,6 @@
 ![MasterHead](https://res.cloudinary.com/dw0oxkg7k/image/upload/v1725521888/Blue_Green_and_White_Modern_Tech_Web_Developer_LinkedIn_Banner_vrjhou.jpg)
 <h1 align="center">Hi 👋, I'm Subhajit</h1>
-<h3 align="center">Frontend Developer skilled in crafting dynamic websites and robust web applications using a range of tools, libraries, and frameworks, such as React.js,Next.js and Component libraries. Specializes in creating responsive, visually captivating, and modern web experiences and Agile methodologies. Passionate about leveraging frontend expertise in innovative projects and collaborating with skilled teams to drive impactful outcomes.</h3>
+<h3 align="center">Frontend Developer with hands-on experience building fast, user friendly applications using React.js and Next.js. Delivered chat interfaces, dashboards, and custom UI components across internships and personal projects.Prioritizes performance, accessibility, and clean UI/UX. Writes reusable, maintainable code with a focus on scalability and clarity.</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **subhajit.chowhan.contact@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1HkkkgjGX2af5hJ9ZwKtv6QQuf4ZVqzvm/view?usp=drive_link](https://drive.google.com/file/d/1gVDrMR8IqjlFktgu2GA7usKrbXs5vpt7/view?usp=sharing))
 
-- ⚡ Fun fact **Besides an enthusiastic developer i am also a Final year BCA Undergraduate. 🍳 I Love to cook and explore various dishes around the world. 🎧 I also love to Listen Music and songs. 🎌 Currently Learning Japanese and Interested to move in japan. and explore the work culture. JLPT N4 certified Japanese speaker.**
+- ⚡ Fun fact **Besides an aspiring developer. 🍳 I Love to cook and explore various dishes around the world. 🎧 I also love to Listen Music and songs. 🎌 Currently Learning Japanese and Interested to move in japan. and explore the work culture. JLPT N4 certified Japanese speaker.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
